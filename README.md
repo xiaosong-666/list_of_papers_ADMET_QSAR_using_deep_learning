@@ -4,7 +4,7 @@ Applications of machine learning in drug discovery
 
 ####QSAR & ADMET modeling based on deep learning 
 
-@Review and perspectives : 
+@Review and perspectives@ : 
 
 Jiang, D., Wu, Z., Hsieh, CY. et al. Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models. J Cheminform 13, 12 (2021). https://doi.org/10.1186/s13321-020-00479-8 
 
@@ -24,7 +24,7 @@ Tropsha, A., Isayev, O., Varnek, A. et al. Integrating QSAR modelling and deep l
 
 https://books.rsc.org/books/edited-volume/2061/chapter-abstract/6377890/Machine-Learning-in-Drug-Design?redirectedFrom=fulltext
 
-#QSAR modeling : 
+@QSAR modeling@ 
     • Vukovic, K.; Gadaleta, D.; Benfenati, E. Methodology of aiQSAR: a group-specific approach to QSAR modelling. J. Cheminform 2019, 11 (1), 27,  DOI: 10.1186/s13321-019-0350-y 
     • Kwon, S., Bae, H., Jo, J. et al. Comprehensive ensemble in QSAR prediction for drug discovery. BMC Bioinformatics 20, 521 (2019). https://doi.org/10.1186/s12859-019-3135-4
     • Li, X., Fourches, D. Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT. J Cheminform 12, 27 (2020). https://doi.org/10.1186/s13321-020-00430-x
