@@ -4,7 +4,7 @@ Applications of machine learning in drug discovery
 
 ####QSAR & ADMET modeling based on deep learning 
 
-#Review and perspectives : 
+@Review and perspectives : 
 
 Jiang, D., Wu, Z., Hsieh, CY. et al. Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models. J Cheminform 13, 12 (2021). https://doi.org/10.1186/s13321-020-00479-8 
 
