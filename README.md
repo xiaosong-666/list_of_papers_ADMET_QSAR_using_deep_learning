@@ -6,8 +6,8 @@ Applications of machine learning in drug discovery
 
 Review and perspectives : 
 
-#Jiang, D., Wu, Z., Hsieh, CY. et al. Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models. J Cheminform 13, 12 (2021). https://doi.org/10.1186/s13321-020-00479-8
-#Recent Advances in the Prediction of Pharmacokinetics Properties in Drug Design Studies: A Review. S. Q. Pantaleão, P. O. Fernandes, J. E. Gonçalves, V. G. Maltarollo, K. M. Honorio, ChemMedChem 2022, 17, e202100542. 
+Jiang, D., Wu, Z., Hsieh, CY. et al. Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models. J Cheminform 13, 12 (2021). https://doi.org/10.1186/s13321-020-00479-8
+Recent Advances in the Prediction of Pharmacokinetics Properties in Drug Design Studies: A Review. S. Q. Pantaleão, P. O. Fernandes, J. E. Gonçalves, V. G. Maltarollo, K. M. Honorio, ChemMedChem 2022, 17, e202100542. 
     • Dara S, Dhamercherla S, Jadav SS, Babu CM, Ahsan MJ. Machine Learning in Drug Discovery: A Review. Artif Intell Rev. 2022;55(3):1947-1999. doi: 10.1007/s10462-021-10058-4. Epub 2021 Aug 11. PMID: 34393317; PMCID: PMC8356896.
     • Pillai N, Dasgupta A, Sudsakorn S, Fretland J, Mavroudis PD. Machine Learning guided early drug discovery of small molecules. Drug Discov Today. 2022 Aug;27(8):2209-2215. doi: 10.1016/j.drudis.2022.03.017. Epub 2022 Mar 29. PMID: 35364270.
     • Nikolai Schapin, Maciej Majewski, Alejandro Varela-Rial, Carlos Arroniz, Gianni De Fabritiis,
