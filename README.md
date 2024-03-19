@@ -4,7 +4,7 @@ Applications of machine learning in drug discovery
 
 ####QSAR & ADMET modeling based on deep learning 
 
-@Review and perspectives@ : 
+@@@@@@Review and perspectives@ : 
 
 Jiang, D., Wu, Z., Hsieh, CY. et al. Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models. J Cheminform 13, 12 (2021). https://doi.org/10.1186/s13321-020-00479-8 
 
@@ -24,7 +24,7 @@ Tropsha, A., Isayev, O., Varnek, A. et al. Integrating QSAR modelling and deep l
 
 https://books.rsc.org/books/edited-volume/2061/chapter-abstract/6377890/Machine-Learning-in-Drug-Design?redirectedFrom=fulltext
 
-@QSAR modeling@ 
+@@@@@@QSAR modeling@ 
 
 Vukovic, K.; Gadaleta, D.; Benfenati, E. Methodology of aiQSAR: a group-specific approach to QSAR modelling. J. Cheminform 2019, 11 (1), 27,  DOI: 10.1186/s13321-019-0350-y 
 
@@ -42,18 +42,22 @@ Zhifeng Gao and Xiaohong Ji and Guojiang Zhao and Hongshuai Wang and Hang Zheng 
 
 Mervin L, Voronov A, Kabeshov M, Engkvist O. Qptuna: an automated QSAR modelling platform for molecular property prediction in drug design. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-2rlk7 This content is a preprint and has not been peer-reviewed.
 
-@Permeability@
+@@@@@@Permeability@
 
 Ning-Ning Wang, Jie Dong, Yin-Hua Deng, Min-Feng Zhu, Ming Wen, Zhi-Jiang Yao, Ai-Ping Lu, Jian-Bing Wang, and Dong-Sheng Cao. ADME Properties Evaluation in Drug Discovery: Prediction of Caco-2 Cell Permeability Using a Combination of NSGA-II and Boosting. Journal of Chemical Information and Modeling 2016 56 (4), 763-773 DOI: 10.1021/acs.jcim.5b00642 
-    • Chi, C.-T.; Lee, M.-H.; Weng, C.-F.; Leong, M.K. In Silico Prediction of PAMPA Effective Permeability Using a Two-QSAR Approach. Int. J. Mol. Sci. 2019, 20, 3170. https://doi.org/10.3390/ijms20133170 
-    • Wang Y, Chen X. QSPR model for Caco-2 cell permeability prediction using a combination of HQPSO and dual-RBF neural network. RSC Adv. 2020 Nov 26;10(70):42938-42952. doi: 10.1039/d0ra08209k. PMID: 35514900; PMCID: PMC9058322
-    • Roy, D., Dutta, D., Wishart, D.S. et al. Predicting PAMPA permeability using the 3D-RISM-KH theory: are we there yet?. J Comput Aided Mol Des 35, 261–269 (2021). https://doi.org/10.1007/s10822-020-00364-4
-    • Falcón-Cano G, Molina C, Cabrera-Pérez MÁ. Reliable Prediction of Caco-2 Permeability by Supervised Recursive Machine Learning Approaches. Pharmaceutics. 2022 Sep 21;14(10):1998. doi: 10.3390/pharmaceutics14101998. PMID: 36297432; PMCID: PMC9610902.
-    • Gousiadou C, Doganis P, Sarimveis H. Development of artificial neural network models to predict the PAMPA effective permeability of new, orally administered drugs active against the coronavirus SARS-CoV-2. Netw Model Anal Health Inform Bioinform. 2023;12(1):16. doi: 10.1007/s13721-023-00410-9. Epub 2023 Feb 6. PMID: 36778642; PMCID: PMC9901841.
-    • 
 
-@BBB prediction@
+Chi, C.-T.; Lee, M.-H.; Weng, C.-F.; Leong, M.K. In Silico Prediction of PAMPA Effective Permeability Using a Two-QSAR Approach. Int. J. Mol. Sci. 2019, 20, 3170. https://doi.org/10.3390/ijms20133170 
 
+Wang Y, Chen X. QSPR model for Caco-2 cell permeability prediction using a combination of HQPSO and dual-RBF neural network. RSC Adv. 2020 Nov 26;10(70):42938-42952. doi: 10.1039/d0ra08209k. PMID: 35514900; PMCID: PMC9058322
+
+Roy, D., Dutta, D., Wishart, D.S. et al. Predicting PAMPA permeability using the 3D-RISM-KH theory: are we there yet?. J Comput Aided Mol Des 35, 261–269 (2021). https://doi.org/10.1007/s10822-020-00364-4
+
+Falcón-Cano G, Molina C, Cabrera-Pérez MÁ. Reliable Prediction of Caco-2 Permeability by Supervised Recursive Machine Learning Approaches. Pharmaceutics. 2022 Sep 21;14(10):1998. doi: 10.3390/pharmaceutics14101998. PMID: 36297432; PMCID: PMC9610902.
+
+Gousiadou C, Doganis P, Sarimveis H. Development of artificial neural network models to predict the PAMPA effective permeability of new, orally administered drugs active against the coronavirus SARS-CoV-2. Netw Model Anal Health Inform Bioinform. 2023;12(1):16. doi: 10.1007/s13721-023-00410-9. Epub 2023 Feb 6. PMID: 36778642; PMCID: PMC9901841.
+
+
+@@@@@@BBB prediction@
 
 The Blood–Brain Barrier (BBB) Score. Mayuri Gupta, Hyeok Jun Lee, Christopher J. Barden, and Donald F. Weaver Journal of Medicinal Chemistry 2019 62 (21), 9824-9836 DOI: 10.1021/acs.jmedchem.9b01220 
 
@@ -69,7 +73,7 @@ Shaker B, Lee J, Lee Y, Yu MS, Lee HM, Lee E, Kang HC, Oh KS, Kim HW, Na D. A ma
 
 DeepGRID: Deep Learning Using GRID Descriptors for BBB Prediction. Loriano Storchi, Gabriele Cruciani, and Simon Cross. Journal of Chemical Information and Modeling 2023 63 (17), 5496-5512 . DOI: 10.1021/acs.jcim.3c00768 
 
-@Solubility@
+@@@@@@@Solubility@
 
 Boobier, S., Hose, D.R.J., Blacker, A.J. et al. Machine learning with physicochemical relationships: solubility prediction in organic solvents and water. Nat Commun 11, 5753 (2020). https://doi.org/10.1038/s41467-020-19594-z
 
@@ -91,7 +95,7 @@ Attention-Based Graph Neural Network for Molecular Solubility Prediction. Waqar 
 
 Liu J, Lei X, Ji C, Pan Y. Fragment-pair based drug molecule solubility prediction through attention mechanism. Front Pharmacol. 2023 Oct 10;14:1255181. doi: 10.3389/fphar.2023.1255181. PMID: 37881183; PMCID: PMC10595153
 
-@CYP prediction / metabolic stability@
+@@@@@@@CYP prediction / metabolic stability@
 
 Priyanka Banerjee, Mathias Dunkel, Emanuel Kemmler, Robert Preissner, SuperCYPsPred—a web server for the prediction of cytochrome activity, Nucleic Acids Research, Volume 48, Issue W1, 02 July 2020, Pages W580–W585, https://doi.org/10.1093/nar/gkaa166
 
@@ -104,8 +108,9 @@ Ai D, Cai H, Wei J, Zhao D, Chen Y, Wang L. DEEPCYPs: A deep learning platform f
 Bing-Xue Du, Yahui Long, Xiaoli Li, Min Wu, Jian-Yu Shi, CMMS-GCL: cross-modality metabolic stability prediction with graph contrastive learning, Bioinformatics, Volume 39, Issue 8, August 2023, btad503, https://doi.org/10.1093/bioinformatics/btad503
 
 Chen Z, Zhang L, Zhang P, Guo H, Zhang R, Li L, Li X. Prediction of Cytochrome P450 Inhibition Using a Deep Learning Approach and Substructure Pattern Recognition. J Chem Inf Model. 2023 Oct 21. doi: 10.1021/acs.jcim.3c01396. Epub ahead of print. PMID: 37864562.
-    • 
-@Toxicity prediction@
+
+
+@@@@@@@Toxicity prediction@
 
 Wu, K.; Wei, G.-W. Quantitative toxicity prediction using topology based multitask deep neural networks. J. Chem. Inf. Model. 2018, 58 (2), 520– 531,  DOI: 10.1021/acs.jcim.7b00558 
 
@@ -127,7 +132,7 @@ Chen, J., Si, YW., Un, CW. et al. Chemical toxicity prediction based on semi-sup
 
 Chemical representation learning for toxicity prediction. Born, Jannis and Markert, Greta and Janakarajan, Nikita and Kimber, Talia B. and Volkamer, Andrea and Martínez, María Rodríguez and Manica, Matteo. Digital Discovery, 2023, 2, 674-691.DOI: 10.1039/D2DD00099G
 
-@ADMET prediction@
+@@@@@@ADMET prediction@
 
 Peng, Y. Z.; Lin, Y. M.; Jing, X. Y.; Zhang, H.; Huang, Y. R.; Luo, G. S. Enhanced Graph Isomorphism Network for Molecular ADMET Properties Prediction. Ieee Access 2020, 8, 168344– 168360,  DOI: 10.1109/ACCESS.2020.3022850
 
@@ -153,7 +158,7 @@ Yi, J., Shi, S., Fu, L. et al. OptADMET: a web-based tool for substructure modif
 
 Walter M, Borghardt JM, Humbeck L, Skalic M. Multi-task ADME/PK Prediction at Industrial Scale: Leveraging Large and Diverse Experimental Datasets. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-pf4w9 This content is a preprint and has not been peer-reviewed.
 
-@PK prediction@
+@@@@@@@PK prediction@
 
 Prediction of Oral Pharmacokinetics Using a Combination of In Silico Descriptors and In Vitro ADME Properties. Yohei Kosugi and Natalie Hosea. Molecular Pharmaceutics 2021 18 (3), 1071-1079 . DOI: 10.1021/acs.molpharmaceut.0c01009 
 
